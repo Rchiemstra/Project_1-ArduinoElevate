@@ -20,7 +20,7 @@ Dit Github-project is gemaakt voor Project 1, een introductiecursus voor het ont
     <img src="https://img.youtube.com/vi/QfNJNJd3xvQ/0.jpg" width="%50" height="%80" />
 </a>
 
-# Teamleden
+## Teamleden
 
 |      Naam             |    LinkedIn          |
 |--------------------   |----------------------|
