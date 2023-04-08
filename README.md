@@ -25,10 +25,10 @@ Dit Github-project is gemaakt voor Project 1, een introductiecursus voor het ont
 |      Naam             |    LinkedIn          |
 |--------------------   |----------------------|
 | Ruben Hiemstra        | [LinkedIn](https://www.linkedin.com/in/ruben-hiemstra-84b9b6127/)      |
-| Michael Francis       | [LinkedIn](url)      |
-| Keanu van der Linden  | [LinkedIn](url)      |
-| TBA                   | [LinkedIn](url)      |
-| TBA                   | [LinkedIn](url)      |
+| Michael Francis       | [LinkedIn]        |
+| Keanu van der Linden  | [LinkedIn]        |
+| TBA                   | [LinkedIn]        |
+| TBA                   | [LinkedIn]        |
 
 
 
