@@ -6,22 +6,22 @@ Dit Github-project is gemaakt voor Project 1, een introductiecursus voor het ont
 
 
 
-<a href="https://youtu.be/g_EcDPiYx5Y" target="_blank"  rel="noopener">
-  <img src="https://img.youtube.com/vi/g_EcDPiYx5Y/0.jpg" width="%80" height="%80" />
-</a>
-
-
-<a href="https://youtu.be/SSYlpKRGl7E" target="_blank"  rel="noopener">
-  <img src="https://img.youtube.com/vi/SSYlpKRGl7E/0.jpg"  width="%80" height="%80"  />
-</a>
-
-
-<a href="https://youtu.be/QfNJNJd3xvQ" target="_blank"  rel="noopener">
-  <img src="https://img.youtube.com/vi/QfNJNJd3xvQ/0.jpg" width="%80" height="%80" />
-</a>
+<p align="center">
+    <a href="https://youtu.be/g_EcDPiYx5Y" target="_blank"  rel="noopener">
+        <img src="https://img.youtube.com/vi/g_EcDPiYx5Y/0.jpg" width="%80" height="%80" />
+    </a>
+</p>
 
 <p align="center">
-  <iframe width="560" height="315" src="https://youtu.be/QfNJNJd3xvQ" frameborder="0" allowfullscreen></iframe>
+    <a href="https://youtu.be/SSYlpKRGl7E" target="_blank"  rel="noopener">
+      <img src="https://img.youtube.com/vi/SSYlpKRGl7E/0.jpg"  width="%80" height="%80"  />
+    </a>
+</p>
+
+<p align="center">
+    <a href="https://youtu.be/QfNJNJd3xvQ" target="_blank"  rel="noopener">
+        <img src="https://img.youtube.com/vi/QfNJNJd3xvQ/0.jpg" width="%80" height="%80" />
+    </a>
 </p>
 
 ## Team
