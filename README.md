@@ -24,10 +24,12 @@ Dit Github-project is gemaakt voor Project 1, een introductiecursus voor het ont
 
 |      Naam             |       Rol           |    LinkedIn          |
 |--------------------   |---------------------|----------------------|
-| Ruben Hiemstra        | Functie/Rol         | [LinkedIn](url)      |
+| Ruben Hiemstra        | Functie/Rol         | [LinkedIn](https://www.linkedin.com/in/ruben-hiemstra-84b9b6127/)      |
 | Michael Francis       | Functie/Rol         | [LinkedIn](url)      |
 | Keanu van der Linden  | Functie/Rol         | [LinkedIn](url)      |
 | Wouter Leijs          | Functie/Rol         | [LinkedIn](url)      |
 | Hiu Tung Tai          | Functie/Rol         | [LinkedIn](url)      |
+
+
 
 
