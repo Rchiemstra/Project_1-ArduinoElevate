@@ -32,4 +32,19 @@ Dit Github-project is gemaakt voor Project 1, een introductiecursus voor het ont
 
 
 
+## Bestanden / Files 
+Het Github-project bevat verschillende mappen met relevante bestanden voor het project.
+
+### src
+In de 'src' map kan je de benodigde bestanden vinden voor het aansluiten en programmeren van de Arduino's. Dit omvat de Arduino code in het .ino-formaat en foto's van de aansluitingen om het aansluiten te vereenvoudigen.
+
+### doc 
+
+De 'doc' map bevat belangrijke documentatiebestanden voor het project. Hier vind je zowel de Fritzing-bestanden voor het ontwerp van de etages als de Adobe Illustrator-bestanden om de behuizing van de lift uit te snijden. Deze bestanden zijn essentieel voor het bouwen van de lift, dus zorg ervoor dat je ze goed bewaart en bijwerkt als dat nodig is.
+
+Met deze indeling van de mappen en bestanden wordt het voor teamleden gemakkelijker om de juiste bestanden te vinden en te gebruiken voor hun specifieke taken.
+
+
+
+
 
