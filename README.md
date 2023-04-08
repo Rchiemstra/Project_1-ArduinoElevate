@@ -41,7 +41,19 @@ Dit Github-project is gemaakt voor Project 1, een introductiecursus voor het ont
 
 
 
-
+<style>
+  table {
+    border-collapse: collapse;
+  }
+  th, td {
+    border: none;
+    padding: 5px 10px;
+  }
+  th {
+    font-weight: bold;
+    text-align: left;
+  }
+</style>
 
 
 
