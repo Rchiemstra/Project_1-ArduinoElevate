@@ -22,13 +22,15 @@ Dit Github-project is gemaakt voor Project 1, een introductiecursus voor het ont
 
 # Teamleden
 
-|      Naam             |       Rol           |    LinkedIn          |
-|--------------------   |---------------------|----------------------|
-| Ruben Hiemstra        | Functie/Rol         | [LinkedIn](https://www.linkedin.com/in/ruben-hiemstra-84b9b6127/)      |
-| Michael Francis       | Functie/Rol         | [LinkedIn](url)      |
-| Keanu van der Linden  | Functie/Rol         | [LinkedIn](url)      |
-| TBA                   | Functie/Rol         | [LinkedIn](url)      |
-| TBA                   | Functie/Rol         | [LinkedIn](url)      |
+|      Naam             |    LinkedIn          |
+|--------------------   |----------------------|
+| Ruben Hiemstra        | [LinkedIn](https://www.linkedin.com/in/ruben-hiemstra-84b9b6127/)      |
+| Michael Francis       | [LinkedIn](url)      |
+| Keanu van der Linden  | [LinkedIn](url)      |
+| TBA                   | [LinkedIn](url)      |
+| TBA                   | [LinkedIn](url)      |
+
+
 
 
 
