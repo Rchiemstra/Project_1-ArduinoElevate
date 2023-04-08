@@ -20,7 +20,14 @@ Dit Github-project is gemaakt voor Project 1, een introductiecursus voor het ont
     <img src="https://img.youtube.com/vi/QfNJNJd3xvQ/0.jpg" width="%80" height="%80" />
 </a>
 
-## Team
-
-
+## Teamleden
+<table>
+  <tr>
+    <th>Ruben Hiemstra</th>
+    <th>Michael Francis</th>
+    <th>Keanu van der Linden</th>
+    <th>Wouter Leijs</th>
+    <th>Hiu Tung Tai</th>
+  </tr>
+</table>
 
