@@ -25,12 +25,14 @@ Dit Github-project is gemaakt voor Project 1, een introductiecursus voor het ont
 | Ruben Hiemstra        | Michael Francis | Keanu van der Linden | Wouter Leijs | Hiu Tung Tai |
 
 
-<table>
-  <tr>
-    <td>Ruben Hiemstra </td>
-    <td>Michael Francis</td>
-    <td>Keanu van der Linden</td>
-    <td>Wouter Leijs</td>
-    <td>Hiu Tung Tai</td>
-  </tr>
-</table>
+<div style="overflow-x:auto;">
+  <table>
+    <tr>
+      <td>Ruben Hiemstra</td>
+      <td>Michael Francis</td>
+      <td>Keanu van der Linden</td>
+      <td>Wouter Leijs</td>
+      <td>Hiu Tung Tai</td>
+    </tr>
+  </table>
+</div>
