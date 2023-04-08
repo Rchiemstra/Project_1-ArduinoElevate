@@ -12,57 +12,16 @@ Dit Github-project is gemaakt voor Project 1, een introductiecursus voor het ont
     <img src="https://img.youtube.com/vi/g_EcDPiYx5Y/0.jpg" width="%80" height="%80" />
 </a>
 
-
 <a href="https://youtu.be/SSYlpKRGl7E" target="_blank"  rel="noopener">
-    <img src="https://img.youtube.com/vi/SSYlpKRGl7E/0.jpg"  width="%80" height="%80"  />
+    <img src="https://img.youtube.com/vi/SSYlpKRGl7E/0.jpg"  width="%50" height="%80"  />
 </a>
-
 
 <a href="https://youtu.be/QfNJNJd3xvQ" target="_blank"  rel="noopener">
-    <img src="https://img.youtube.com/vi/QfNJNJd3xvQ/0.jpg" width="%80" height="%80" />
+    <img src="https://img.youtube.com/vi/QfNJNJd3xvQ/0.jpg" width="%50" height="%80" />
 </a>
 
-## Teamleden
-<table>
-  <tr>
-    <th>Ruben Hiemstra</th>
-    <th>Michael Francis</th>
-    <th>Keanu van der Linden</th>
-    <th>Wouter Leijs</th>
-    <th>Hiu Tung Tai</th>
-  </tr>
-</table>
-
-
-
-
-
-
-
-
-
-<style>
-  table {
-    border-collapse: collapse;
-  }
-  th, td {
-    border: none;
-    padding: 5px 10px;
-  }
-  th {
-    font-weight: bold;
-    text-align: left;
-  }
-</style>
-
-
-
-
-
-
-
-
-
-
+|<h2>Teamleden </h2>    |       |       |       |       |   	   
+| :---:                 | :---: | :---: | :---: | :---: |
+| Ruben Hiemstra        | Michael Francis | Keanu van der Linden | Wouter Leijs | Hiu Tung Tai |
 
 
