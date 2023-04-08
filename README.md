@@ -6,17 +6,17 @@ Dit Github-project is gemaakt voor Project 1, een introductiecursus voor het ont
 
 
 
-<a href="https://youtu.be/g_EcDPiYx5Y" target="_blank">
+<a href="https://youtu.be/g_EcDPiYx5Y" target="_blank"  rel="noopener">
   <img src="https://img.youtube.com/vi/g_EcDPiYx5Y/0.jpg" alt="Watch the video" width="240" height="180" border="10" />
 </a>
 
 
-<a href="https://youtu.be/SSYlpKRGl7E" target="_blank">
+<a href="https://youtu.be/SSYlpKRGl7E" target="_blank"  rel="noopener">
   <img src="https://img.youtube.com/vi/SSYlpKRGl7E/0.jpg" alt="Watch the video" width="240" height="180" border="10" />
 </a>
 
 
-<a href="https://youtu.be/QfNJNJd3xvQ" target="_blank">
+<a href="https://youtu.be/QfNJNJd3xvQ" target="_blank"  rel="noopener">
   <img src="https://img.youtube.com/vi/QfNJNJd3xvQ/0.jpg" alt="Watch the video" width="240" height="180" border="10" />
 </a>
 
